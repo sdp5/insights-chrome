@@ -1,0 +1,354 @@
+{
+  "SIDsFilter": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "accessRestricted": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "accountNumber": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "activationDescription": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "activationTitle": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "afterBetaUse": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "apiDocumentation": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "authFailure": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "betaRelease": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "cancel": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "changesComing": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "checkOur": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "clearFilters": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "close": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "demoMode": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "describeBug": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "email": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "enterFeedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "feedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "feedbackSent": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "filterResults": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "filterSAPIDs": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "filterTags": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "findAppOrService": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "getSupport": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "globalFilterNotApplicable": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "helpUsImproveHCC": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "home": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "insightsRhelDocumentation": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "internal": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "internalUser": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "knownOutages": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "learnAboutResearchOpportunities": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "learnHowTo": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "learnMore": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "learnMoreABoutBeta": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "loggedOut": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "login": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "logout": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "myProfile": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "myUserAccess": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "name": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "newRequestReview": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "noInventoryPermissions": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "noLongerHaveAccess": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "noMatchingAppsFound": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "noResults": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "openSupportCase": {
+    "defaultMessage": "",
+    "description": " "
+  },
+  "orShareIdeas": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "orgAdministrator": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "personalAccount": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "problemProcessingRequest": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "quickStarts": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "redHatSupport": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "reportBug": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "researchOpportunities": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "returnToHomepage": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "searchAccount": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "segmentError": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "selectTagsOrSIDs": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "shareFeedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "shareYourFeedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "showMore": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "somethingWentWrong": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "statusPage": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "stopUsing": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "submitFeedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "submitOnlyInStageProd": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "supportOptions": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tagSources": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tagsFilter": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tellAboutExperience": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "thankYouForFeedback": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "thereWillBeACatalgPage": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tryChangingSearch": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tryThisFeatureInBeta": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "tryUsingDifferentAccount": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "unableToLoadQuickstartsContent": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "use": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "useAccountNumber": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "useFeatureInBeta": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "userPreferences": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "username": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "value": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "viewAsCustomer": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "viewChanged": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "viewRequest": {
+    "defaultMessage": "",
+    "description": ""
+  },
+  "viewingAsAccount": {
+    "defaultMessage": "",
+    "description": ""
+  }
+}
