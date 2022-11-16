@@ -20,8 +20,8 @@
     "description": ""
   },
   "afterBetaUse": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "ベータ版の機能を使用した後は、手動でベータ リリースを終了するまでベータ環境にとどまります。ベータ環境を離れるには、上部のツールバーの設定(歯車)アイコンまたはベータアイコンをクリックします。",
+    "description": "ベータ版の機能を使用した後は、手動でベータ リリースを終了するまでベータ環境にとどまります。"
   },
   "apiDocumentation": {
     "defaultMessage": "",
