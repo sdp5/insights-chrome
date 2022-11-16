@@ -9,19 +9,19 @@
   },
   "accountNumber": {
     "defaultMessage": "口座番号:",
-    "description": ""
+    "description": "口座番号:"
   },
   "activationDescription": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "Red Hat は 1 営業日以内に連絡し、サブスクリプション特典を有効にする準備が整ったことを確認します。",
+    "description": "Red Hat は 1 営業日以内に連絡し、サブスクリプション特典を有効にする準備が整ったことを確認します。"
   },
   "activationTitle": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "アクティベーションリクエストを送信していただきありがとうございます",
+    "description": "アクティベーションリクエストを送信していただきありがとうございます"
   },
   "afterBetaUse": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "ベータ版の機能を使用した後は、ベータ リリースを手動で終了するまでベータ環境のままになります。ベータ環境を離れるには、上部のツールバーの設定(歯車)アイコンまたはベータアイコンをクリックします。",
+    "description": "ベータ版の機能を使用した後は、ベータ リリースを手動で終了するまでベータ環境のままになります。"
   },
   "apiDocumentation": {
     "defaultMessage": "",
