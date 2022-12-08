@@ -4,11 +4,11 @@
     "description": ""
   },
   "accessRestricted": {
-    "defaultMessage": "このページへのアクセスは、許可されたアカウントのユーザーからのサードパーティ IDP トークン用に予約されています。",
-    "description": "このページへのアクセスは、許可されたアカウントのユーザーからのサードパーティ IDP トークン用に予約されています。"
+    "defaultMessage": "",
+    "description": ""
   },
   "accountNumber": {
-    "defaultMessage": "口座番号:",
+    "defaultMessage": "",
     "description": ""
   },
   "activationDescription": {
