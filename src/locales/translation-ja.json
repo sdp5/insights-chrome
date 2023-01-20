@@ -8,7 +8,7 @@
     "description": "このページへのアクセスは、許可されたアカウントのユーザーからのサードパーティ IDP トークン用に予約されています。"
   },
   "accountNumber": {
-    "defaultMessage": "口座番号:",
+    "defaultMessage": "",
     "description": ""
   },
   "activationDescription": {
